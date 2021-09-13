@@ -1,0 +1,14 @@
+[
+  {
+    "employeeId":24501,
+    "employeeName":"Anu",
+    "desgination":"Developer",
+    "dateOfBirth":"13/09/2000"
+  },
+  {
+    "employeeId":24502,
+    "employeeName":"Anitha",
+    "desgination":"Developer",
+    "dateOfBirth":"09/01/2000"
+  }
+]
